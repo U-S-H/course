@@ -321,13 +321,13 @@
         import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
 
         const firebaseConfig = {
-            apiKey: "AIzaSyBiti-Ih5nxvRQ8Xt9YImiN1X3RnPoXoTI",
-            authDomain: "gilgit-79048.firebaseapp.com",
-            databaseURL: "https://gilgit-79048-default-rtdb.firebaseio.com",
-            projectId: "gilgit-79048",
-            storageBucket: "gilgit-79048.firebasestorage.app",
-            messagingSenderId: "784852692962",
-            appId: "1:784852692962:web:eab87b313e024ebf7953bb"
+            apiKey: "AIzaSyADE1-xbwp2ckr9wyjS1FnsYszHjgk634s",
+            authDomain: "gilgit-9d05c.firebaseapp.com",
+            databaseURL: "https://gilgit-9d05c-default-rtdb.firebaseio.com",
+            projectId: "gilgit-9d05c",
+            storageBucket: "gilgit-9d05c.firebasestorage.app",
+            messagingSenderId: "8864499012",
+            appId: "1:8864499012:web:24a815709bb49933dfc311"
         };
 
         const app = initializeApp(firebaseConfig);
